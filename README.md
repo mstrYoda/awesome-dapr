@@ -25,6 +25,7 @@ A curated list of awesome Dapr application runtime related repositories, article
 - [Dapr Components Contrib](https://github.com/dapr/components-contrib) - Community driven, reusable components for distributed apps.
 - [Dapr Cli](https://github.com/dapr/cli) - Command-line tools for Dapr.
 - [Dapr Dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr.
+- [Dapr Go SDK](https://github.com/dapr/go-sdk) - Dapr SDK for Go
 - [Dapr .Net SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET
 - [Dapr DotNet SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET
 - [Dapr Java SDK](https://github.com/dapr/java-sdk) - Dapr SDK for Java
