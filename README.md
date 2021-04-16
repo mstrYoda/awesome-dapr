@@ -74,6 +74,7 @@ A curated list of awesome Dapr application runtime related repositories, article
 - https://github.com/thangchung/practical-dapr
 - https://github.com/mchmarny/dapr-demos
 - https://github.com/abhirockzz/tour-of-dapr
+- https://github.com/yysun/apprun-dapr
 
 ### Community
 
