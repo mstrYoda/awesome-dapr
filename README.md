@@ -9,14 +9,16 @@ A curated list of awesome Dapr application runtime related repositories, article
 
 # Contents
 
-- [💼 Official Projects](#official-projects)
-- [📹 Videos](#videos)
-- [📰 Articles](#articles)
-- [🗒️ Books](#books)
-- [📑 Slides](#slides)
-- [🧪 Labs](#labs)
-- [🐾 Community Repositories](#community-repositories)
-- [📡 Community](#community)
+- [awesome-dapr ![Awesome](https://awesome.re)](#awesome-dapr-)
+- [Contents](#contents)
+    - [Official Projects](#official-projects)
+    - [Videos](#videos)
+    - [Articles](#articles)
+    - [Books](#books)
+    - [Slides](#slides)
+    - [Labs](#labs)
+    - [Community Repositories](#community-repositories)
+    - [Community](#community)
 
 ### Official Projects
 
@@ -27,7 +29,6 @@ A curated list of awesome Dapr application runtime related repositories, article
 - [Dapr Dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr.
 - [Dapr Go SDK](https://github.com/dapr/go-sdk) - Dapr SDK for Go
 - [Dapr .Net SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET
-- [Dapr DotNet SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET
 - [Dapr Java SDK](https://github.com/dapr/java-sdk) - Dapr SDK for Java
 - [Dapr Rust SDK](https://github.com/dapr/rust-sdk) - Dapr SDK for Rust - Alpha
 - [Dapr Javascript SDK](https://github.com/dapr/js-sdk) - Dapr SDK for Java
