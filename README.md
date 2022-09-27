@@ -54,16 +54,18 @@ A curated list of awesome Dapr application runtime related repositories, article
 
 - [Microsoft’s Open Source Dapr Could Help Developers Build Agnostic Microservice Applications](https://thenewstack.io/microsofts-open-source-dapr-could-help-developers-build-agnostic-microservice-applications/)
 - [Get started with Dapr](https://docs.microsoft.com/tr-tr/dotnet/architecture/dapr-for-net-developers/getting-started)
+- [Dapr and WASM](https://www.alibabacloud.com/blog/webassembly-%2B-dapr-%3D-next-generation-cloud-native-runtime_598222)
+- [First Steps With Dapr](http://www.ofbizian.com/2022/08/first-steps-with-dapr.html)
 
 ### Books
 
 - [Learning Dapr](https://learning.oreilly.com/library/view/learning-dapr/9781492072416/)
 - [Practical Microservices with Dapr and .NET](https://learning.oreilly.com/library/view/practical-microservices-with/9781800568372/)
-- [Dapr and WASM](https://www.alibabacloud.com/blog/webassembly-%2B-dapr-%3D-next-generation-cloud-native-runtime_598222)
 
 ### Slides
 
 - [Tour of Dapr - Abhishek - CCDays](https://www.slideshare.net/CodeOps/tour-of-dapr-abhishek-ccdays)
+- [Creating Distributed Apps - Dapr](https://www.slideshare.net/geertvdc1/techdays-helsinki-creating-the-distributed-apps-of-the-future-using-dapr-geert-van-der-cruijsen)
 
 ### Labs
 
