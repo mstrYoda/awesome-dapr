@@ -59,6 +59,7 @@ A curated list of awesome Dapr application runtime related repositories, article
 
 - [Learning Dapr](https://learning.oreilly.com/library/view/learning-dapr/9781492072416/)
 - [Practical Microservices with Dapr and .NET](https://learning.oreilly.com/library/view/practical-microservices-with/9781800568372/)
+- [Dapr and WASM](https://www.alibabacloud.com/blog/webassembly-%2B-dapr-%3D-next-generation-cloud-native-runtime_598222)
 
 ### Slides
 
@@ -75,6 +76,7 @@ A curated list of awesome Dapr application runtime related repositories, article
 - https://github.com/mchmarny/dapr-demos
 - https://github.com/abhirockzz/tour-of-dapr
 - https://github.com/yysun/apprun-dapr
+- https://github.com/second-state/dapr-wasm
 
 ### Community
 
