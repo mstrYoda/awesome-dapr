@@ -69,8 +69,6 @@ A curated list of awesome Dapr application runtime related repositories, article
 
 ### Labs
 
-- [Understanding Dapr using Interactive Browser-Based Scenarios](https://www.katacoda.com/reselbob/scenarios/using-dapr)
-
 ### Community Repositories
 
 - https://github.com/mstrYoda/dapr-examples
