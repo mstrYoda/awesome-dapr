@@ -69,6 +69,7 @@ A curated list of awesome Dapr application runtime related repositories, article
 
 ### Labs
 
+- [Diagrid Dapr University](https://www.diagrid.io/dapr-university)
 - [Understanding Dapr using Interactive Browser-Based Scenarios](https://www.katacoda.com/reselbob/scenarios/using-dapr)
 
 ### Community Repositories
